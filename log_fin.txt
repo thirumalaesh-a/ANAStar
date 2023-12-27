@@ -1,0 +1,104 @@
+Start time: 1702681040.86567Running ANA*: 
+ Env: blocked.json 
+ Heuristic: octile 
+ Goal: (1.8, -1.8, -1.5707963267948966) 
+ Lowest Cost = 6.525483399593905 
+ Time: 8.423433780670166 
+ Cost = 10.291168824543147 
+ Time: 1.1608431339263916 
+ Cost = 6.325483399593905 
+ Time: 1.8015618324279785 
+
+Running A*: 
+ Env: blocked.json 
+ Heuristic: octile 
+ Goal: (1.8, -1.8, -1.5707963267948966) 
+Cost = 6.393999999999999 
+ Time: 4.248811483383179 
+Running ANA*: 
+ Env: blocked.json 
+ Heuristic: euclidean 
+ Goal: (1.8, -1.8, -1.5707963267948966) 
+ Lowest Cost = 6.291168824543142 
+ Time: 7.819965600967407 
+ Cost = 11.188225099390861 
+ Time: 1.7986409664154053 
+ Cost = 7.325483399593905 
+ Time: 1.4928112030029297 
+ Cost = 6.391168824543142 
+ Time: 1.1794095039367676 
+
+Running A*: 
+ Env: blocked.json 
+ Heuristic: euclidean 
+ Goal: (1.8, -1.8, -1.5707963267948966) 
+Cost = 6.328 
+ Time: 2.5199332237243652 
+Running ANA*: 
+ Env: pr2doorway.json 
+ Heuristic: octile 
+ Goal: (2.6, -1.3, -1.5707963267948966) 
+ Lowest Cost = 10.449509756796386 
+ Time: 39.877042055130005 
+ Cost = 10.449509756796386 
+ Time: 3.785654067993164 
+
+Running A*: 
+ Env: pr2doorway.json 
+ Heuristic: octile 
+ Goal: (2.6, -1.3, -1.5707963267948966) 
+Cost = 10.289999999999987 
+ Time: 29.536059379577637 
+Running ANA*: 
+ Env: pr2doorway.json 
+ Heuristic: euclidean 
+ Goal: (2.6, -1.3, -1.5707963267948966) 
+ Lowest Cost = 10.449509756796386 
+ Time: 32.028043031692505 
+ Cost = 10.449509756796386 
+ Time: 7.691563129425049 
+
+Running A*: 
+ Env: pr2doorway.json 
+ Heuristic: euclidean 
+ Goal: (2.6, -1.3, -1.5707963267948966) 
+Cost = 10.289999999999987 
+ Time: 23.242309093475342 
+Running ANA*: 
+ Env: move_several_10.json 
+ Heuristic: octile 
+ Goal: (1.8, -1.8, -3.141592653589793) 
+ Lowest Cost = 6.3596747752497675 
+ Time: 223.87102603912354 
+ Cost = 7.1304951684997055 
+ Time: 9.258198738098145 
+ Cost = 6.3596747752497675 
+ Time: 75.2157769203186 
+
+Running A*: 
+ Env: move_several_10.json 
+ Heuristic: octile 
+ Goal: (1.8, -1.8, -3.141592653589793) 
+Cost = 5.992000000000004 
+ Time: 65.88648629188538 
+Running ANA*: 
+ Env: move_several_10.json 
+ Heuristic: euclidean 
+ Goal: (1.8, -1.8, -3.141592653589793) 
+ Lowest Cost = 6.283281572999745 
+ Time: 161.18705677986145 
+ Cost = 12.831810730249332 
+ Time: 21.982332229614258 
+ Cost = 6.930495168499705 
+ Time: 18.351346731185913 
+ Cost = 6.283281572999745 
+ Time: 15.723919153213501 
+
+Running A*: 
+ Env: move_several_10.json 
+ Heuristic: euclidean 
+ Goal: (1.8, -1.8, -3.141592653589793) 
+Cost = 5.9920000000000035 
+ Time: 49.43331050872803 
+End time: 1702682044.312999 
+Total Demo time: 1003.447329044342 
